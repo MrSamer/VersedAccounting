@@ -123,7 +123,7 @@ function App() {
       <footer className="bg-black/70 backdrop-blur-sm text-white py-8">
         <div className="container mx-auto px-6 text-center">
           <p className="text-gray-300 text-shadow-sm">
-            © 2024 Modern Financial Solutions. All rights reserved.
+            © 2024 Versed Accounting. All rights reserved.
           </p>
         </div>
       </footer>
